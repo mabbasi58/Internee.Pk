@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Portfolio Website",
+      "description": "Personal portfolio website showcasing projects and skills.",
+      "category": "Web Development"
+    },
+    {
+      "name": "E-Commerce Platform",
+      "description": "Full-stack e-commerce platform with product listings, shopping cart, and payments.",
+      "category": "Web Development"
+    },
+    {
+      "name": "Blog Website",
+      "description": "A blog platform with user authentication, content creation, and commenting features.",
+      "category": "Web Development"
+    },
+    {
+        "name": "Portfolio Website",
+        "description": "Personal portfolio website showcasing projects and skills.",
+        "category": "Web Development"
+      },
+      {
+        "name": "E-Commerce Platform",
+        "description": "Full-stack e-commerce platform with product listings, shopping cart, and payments.",
+        "category": "Web Development"
+      },
+      {
+        "name": "Blog Website",
+        "description": "A blog platform with user authentication, content creation, and commenting features.",
+        "category": "Web Development"
+      }
+    
+  ]
+  
